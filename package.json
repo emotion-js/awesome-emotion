@@ -1,0 +1,7 @@
+{
+  "name": "awesome-emotion",
+  "version": "1.0.0",
+  "dependencies": {
+    "doctoc": "^1.3.1"
+  }
+}
