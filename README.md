@@ -50,6 +50,7 @@
 - [postmates.com](https://postmates.com/)
 - [thedisconnect.co](https://thedisconnect.co/one)
 - [zefenify.com](https://zefenify.com/about.html)
+- [strelkamag.com](https://strelkamag.com/)
 
 ## Contribute
 
