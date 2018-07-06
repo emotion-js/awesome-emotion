@@ -33,11 +33,11 @@
 
 ## Component Libraries
 
-- [grid-emotion](https://github.com/emotion-js/grid-emotion)
-- [rebass-emotion](https://github.com/emotion-js/rebass-emotion)
+- [react-select](https://github.com/JedWatson/react-select) ([Website](http://jedwatson.github.io/react-select/))
 - [reactivesearch](https://github.com/appbaseio/reactivesearch) ([Website](https://opensource.appbase.io/reactivesearch/))
 - [circuit-ui](https://github.com/sumup/circuit-ui) ([Storybook](https://sumup.github.io/circuit-ui/))
 - [govuk-react](https://github.com/UKHomeOffice/govuk-react/) ([Storybook](https://ukhomeoffice.github.io/govuk-react/))
+
 
 ## Examples In the Wild
 
