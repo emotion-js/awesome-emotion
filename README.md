@@ -30,6 +30,7 @@
 - [CSS to emotion transform](https://transform.now.sh/css-to-emotion/)
 - [ShevyJS](https://github.com/kyleshevlin/shevyjs) - Configurable Vertical Rhythm & Typography in CSS-in-JS
 - [design-system-utils](https://github.com/mrmartineau/design-system-utils) - Utilities to give better access to your design system.
+- [styled-map](https://github.com/scf4/styled-map) - Super simple lib to map props to styles
 
 ## Component Libraries
 
