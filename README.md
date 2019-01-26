@@ -39,6 +39,7 @@
 - [reactivesearch](https://github.com/appbaseio/reactivesearch) ([Website](https://opensource.appbase.io/reactivesearch/))
 - [circuit-ui](https://github.com/sumup/circuit-ui) ([Storybook](https://sumup.github.io/circuit-ui/))
 - [govuk-react](https://github.com/UKHomeOffice/govuk-react/) ([Storybook](https://ukhomeoffice.github.io/govuk-react/))
+- [smooth-ui](https://github.com/smooth-code/smooth-ui) ([Website](https://smooth-ui.smooth-code.com/))
 
 
 ## Examples In the Wild
