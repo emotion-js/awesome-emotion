@@ -57,6 +57,7 @@
 - [strelkamag.com](https://strelkamag.com/)
 - [rookout.com](https://www.rookout.com)
 - [figma.com](https://www.figma.com/)
+- [designsystems.com](https://www.designsystems.com/)
 
 ## Contribute
 
