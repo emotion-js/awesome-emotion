@@ -32,6 +32,7 @@
 - [design-system-utils](https://github.com/mrmartineau/design-system-utils) - Utilities to give better access to your design system.
 - [styled-map](https://github.com/scf4/styled-map) - Super simple lib to map props to styles
 - [polished](https://github.com/styled-components/polished) - Lightweight set of Sass/Compass-style mixins/helpers for writing styles in JavaScript.
+- [styled-conditions](https://github.com/karolisgrinkevicius/styled-conditions) - Ultra-lightweight flag utility to conditionally apply css depending on React props.
 
 ## Component Libraries
 
