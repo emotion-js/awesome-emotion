@@ -33,6 +33,7 @@
 - [styled-map](https://github.com/scf4/styled-map) - Super simple lib to map props to styles
 - [polished](https://github.com/styled-components/polished) - Lightweight set of Sass/Compass-style mixins/helpers for writing styles in JavaScript.
 - [styled-conditions](https://github.com/karolisgrinkevicius/styled-conditions) - Ultra-lightweight flag utility to conditionally apply css depending on React props.
+- [next-emotion-ssr](https://github.com/cprecioso/next-emotion-ssr) - Advanced Emotion SSR for Next.js
 
 ## Component Libraries
 
