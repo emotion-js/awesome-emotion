@@ -33,6 +33,7 @@
 - [styled-map](https://github.com/scf4/styled-map) - Super simple lib to map props to styles
 - [polished](https://github.com/styled-components/polished) - Lightweight set of Sass/Compass-style mixins/helpers for writing styles in JavaScript.
 - [styled-conditions](https://github.com/karolisgrinkevicius/styled-conditions) - Ultra-lightweight flag utility to conditionally apply css depending on React props.
+- [manipulative](https://github.com/paulshen/manipulative) - React devtool to style emotion components from the browser.
 
 ## Component Libraries
 
