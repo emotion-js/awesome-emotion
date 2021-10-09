@@ -42,6 +42,7 @@
 - [circuit-ui](https://github.com/sumup/circuit-ui) ([Storybook](https://sumup.github.io/circuit-ui/))
 - [govuk-react](https://github.com/UKHomeOffice/govuk-react/) ([Storybook](https://ukhomeoffice.github.io/govuk-react/))
 - [smooth-ui](https://github.com/smooth-code/smooth-ui) ([Website](https://smooth-ui.smooth-code.com/))
+- [material-ui](https://github.com/mui-org/material-ui) ([Website](https://mui.com/))
 - [mineral-ui](https://mineral-ui.com) ([Website](https://mineral-ui.com))
 - [sancho-ui](https://sancho-ui.com) ([Website](https://sancho-ui.com))
 
