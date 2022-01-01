@@ -1,5 +1,7 @@
 # Awesome Emotion [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+### This list has been moved into the main Emotion repository, see https://emotion.sh/docs/community or `docs/community.mdx` if you wish to submit a PR. `awesome-emotion` will not be maintained going forward.
+
 > A curated list of awesome stuff related to [emotion](https://emotion.sh)
 
 ## Contents
