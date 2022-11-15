@@ -34,6 +34,7 @@
 - [polished](https://github.com/styled-components/polished) - Lightweight set of Sass/Compass-style mixins/helpers for writing styles in JavaScript.
 - [styled-conditions](https://github.com/karolisgrinkevicius/styled-conditions) - Ultra-lightweight flag utility to conditionally apply css depending on React props.
 - [manipulative](https://github.com/paulshen/manipulative) - React devtool to style emotion components from the browser.
+- [e-prim](https://github.com/dstoyanoff/e-prim) - primitives/design-system on top of emotion
 
 ## Component Libraries
 
